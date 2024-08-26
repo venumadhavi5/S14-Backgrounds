@@ -1,0 +1,70 @@
+div{
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+    border-radius: 50px;
+    width: 300px;
+    height: 500px;
+    padding: 20px;
+    box-shadow: 20px 20px 20px black;
+    overflow: hidden;
+}
+img{
+    width: 200px;
+    height: 200px;
+
+}
+#hdfcDiv{
+    background-color: rgb(255, 230, 0);
+    width: 300px;
+   border: 10px dashed black;
+    border-radius: 50px;
+    background-image: url(./images/hdfc\ logo.png);
+    background-size: 150px 150px;
+    background-repeat: no-repeat ;
+    background-position: center bottom;
+    padding: 30px;
+    background-origin: padding-box;
+    background-clip: padding-box;
+
+    
+}
+#idbiDiv{
+    background-color: #00ff2a;
+    width: 300px;
+   border: 10px double black;
+    border-radius: 50px;
+    color: rgb(123, 16, 34);
+    background-image: url(./images/idbi_logo-removebg-preview.png);
+    background-size: 100px 100px;
+    background-repeat: repeat-x ;
+    background-position: right bottom;
+    background-attachment: scroll;
+
+
+}
+#indianDiv{
+    background-color: rgb(30, 0, 255);
+    width: 300px;
+   border: 10px dotted black;
+    border-radius: 50px;
+    color: greenyellow;
+    background-image: url(./images/indian\ logo.png);
+    background-size: 100px 100px;
+    background-repeat: repeat-y ;
+    background-clip: padding-box;
+
+}
+#stateDiv{
+    background-color: rgb(255, 0, 200);
+    width: 300px;
+   border: 10px double black;
+    border-radius: 50px;
+    color: rgb(6, 6, 6);
+    background-image: url(./images/SBI-logo.webp);
+    background-size: 100px 100px;
+    background-repeat: repeat ;
+
+
+}
+
